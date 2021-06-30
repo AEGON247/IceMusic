@@ -1,6 +1,6 @@
 # IceMusic
 
-Enjoy Classy Music offline, for free ! At IceMusic
+Enjoy Classy Music at your fingertips, for free ! At IceMusic
 
 # How To Access ?
 
