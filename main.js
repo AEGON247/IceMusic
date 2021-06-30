@@ -1,3 +1,11 @@
+function myData() {
+  retrun;
+}
+
+function show() {
+  document.getElementById('anotherFunction').classList.toggle('Active');
+}
+
 let now_playing = document.querySelector(".now-playing");
 let track_art = document.querySelector(".track-art");
 let track_name = document.querySelector(".track-name");
@@ -38,6 +46,12 @@ let track_list = [
     artist: "Chad Crouch",
     image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
+  },
+  {
+    name: "Echo",
+    artist: "Chrissyb",
+    image: "https://prosearch.tribeofnoise.com/dist/images/artist-banner.jpg",
+    path: "https://prosearch.tribeofnoise.com/artists/show/44333/23850",
   },
 ];
 
