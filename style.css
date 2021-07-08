@@ -6,6 +6,7 @@
 
 body {
     background-color: lightgreen;
+    text-decoration-color: black;
   
     /* Smoothly transition the background color */
     transition: background-color .5s;
@@ -553,6 +554,7 @@ body {
 
   .about {
     font-size: 3rem;
+    text-decoration-color: black;
   }
 
   .contact {
@@ -579,4 +581,14 @@ body {
     width: 30px;
     height: 25px;
     background: radial-gradient(circle at top right, transparent 58%, #2e7384 60%);
+  }
+
+  .wix {
+    margin-left: 80%;
+    margin-top: 5%;
+  }
+
+  .arrow {
+    margin-left: 70%;
+    margin-top: 0%;
   }
